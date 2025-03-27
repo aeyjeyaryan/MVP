@@ -1,5 +1,5 @@
 fastapi
-cv2
+opencv-python
 numpy
 google.generativeai
 mediapipe
