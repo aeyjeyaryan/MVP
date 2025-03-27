@@ -1,0 +1,7 @@
+fastapi
+cv2
+numpy
+google.generativeai
+mediapipe
+python-dotenv
+asyncio
